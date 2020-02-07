@@ -1,2 +1,2 @@
 # hello-world
-Just trying to create a new repositary :)
+Just trying to create a new repository :)
